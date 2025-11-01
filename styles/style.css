@@ -7,6 +7,11 @@ body {
     margin: auto;
 }
 
+#hero-image
+{
+    height: 100px;   
+}
+
 #top-section {
     outline: solid 2px gray;
     text-align: center;
