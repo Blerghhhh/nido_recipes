@@ -1,0 +1,64 @@
+/* Hero Section */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    outline: solid 2px gray;
+    width: 900px;
+    height: 945px;
+    margin: auto;
+}
+
+#top-section {
+    outline: solid 2px gray;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+}
+
+#what-do-you-want-to-cook {
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+
+.circle {
+    height: 200px;
+    margin: 15px 0px 20px 350px;
+}
+
+/* Lasagna */
+
+img {
+    display: block;
+    max-width: 90%;
+    max-height: 400px;
+    margin: 20px auto;
+}
+
+#lasagna-container {
+    outline: solid 2px gray;
+}
+
+#lasagna-title {
+    text-align: center;
+}
+
+#ingredients {
+    text-align: center;
+}
+
+.home {
+    display: block;
+    text-align: center;
+}
